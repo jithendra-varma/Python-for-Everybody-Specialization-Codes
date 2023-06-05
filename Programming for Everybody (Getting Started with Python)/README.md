@@ -8,7 +8,7 @@ The "Programming for Everybody (Getting Started with Python)" course is the firs
 
 ## Contents
 
-- `Assignment:`: Includes assignments answers for practicing and applying the learned concepts.
+- `Assignment`: Includes assignments answers for practicing and applying the learned concepts.
 
 ## Getting Started
 
