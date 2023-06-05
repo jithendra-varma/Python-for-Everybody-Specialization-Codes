@@ -49,7 +49,3 @@ For additional resources, documentation, and support, refer to the following:
 ## Contributing
 
 Contributions to this repository are not currently accepted. However, if you find any issues or have suggestions for improvements, please feel free to create an issue in the repository.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
