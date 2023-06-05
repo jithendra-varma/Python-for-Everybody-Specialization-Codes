@@ -21,7 +21,7 @@ The Python for Everybody Specialization is a comprehensive online course series 
 
 The specialization consists of the following courses:
 
-1. [Course 1: Programming for Everybody Getting Started with Python](https://github.com/jithendra-varma/Python-for-Everybody-Specialization-Codes/tree/main/Programming%20for%20Everybody%20(Getting%20Started%20with%20Python)
+1. [Course 1: Programming for Everybody (Getting Started with Python)](https://github.com/jithendra-varma/Python-for-Everybody-Specialization-Codes/tree/main/Programming%20for%20Everybody%20(Getting%20Started%20with%20Python))
 2. [Course 2: Python Data Structures](https://github.com/jithendra-varma/Python-for-Everybody-Specialization-Codes/tree/main/Python%20Data%20Structures)
 3. [Course 3: Using Python to Access Web Data](https://github.com/jithendra-varma/Python-for-Everybody-Specialization-Codes/tree/main/Using%20Python%20to%20Access%20Web%20Data)
 4. [Course 4: Using Databases with Python](https://github.com/jithendra-varma/Python-for-Everybody-Specialization-Codes/tree/main/Using%20Databases%20with%20Python)
