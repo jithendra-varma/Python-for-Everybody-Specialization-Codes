@@ -1,6 +1,6 @@
 # Python for Everybody Specialization Codes
 
-![Python Logo](https://github.com/jithendra-varma/Python-for-Everybody-Specialization-Codes/blob/main/Python-logo-notext.svg)
+![Python Logo](https://github.com/jithendra-varma/Python-for-Everybody-Specialization-Codes/blob/main/Images/Python-logo-notext.svg)
 
 This repository contains code examples and solutions for the Python for Everybody Specialization offered on Coursera.
 
